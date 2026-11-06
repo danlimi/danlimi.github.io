@@ -3,4 +3,4 @@
 :HL["/_next/static/media/50042d258a63dd98-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e807dee2426166ad-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/dd79e031c750508f.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"essays","param":null,"prefetchHints":0,"slots":{"children":{"name":"women-designers-and-developers","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Lcv9owQhLbR6ltt3fPy4I"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"essays","param":null,"prefetchHints":0,"slots":{"children":{"name":"women-designers-and-developers","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"bHarYknRWJEyrcHyrFT-I"}
